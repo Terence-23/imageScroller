@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">image scroller</string>
+    <string name="next_text">next</string>
+    <string name="prev_text">previous</string>
+    <string name="first_text">first</string>
+    <string name="last_text">last</string>
+    <string name="image_desc">random image</string>
+</resources>
